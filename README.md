@@ -5,7 +5,7 @@ I've create Windows batch files to automate execution of the Reference Preview S
 
 https://developer.amazon.com/public/solutions/alexa/alexa-voice-service/docs/reference-implementation-guide
 
-There are five batch files. I run them from C:\Temp. I'm using a Windows 10 system.
+There are five batch files. You should be able to run them from any directory. I'm using a Windows 10 system.
 
 1. alexa_set_paths.bat contains path and value settings. YOU MUST MODIFY THE SETTINGS FOR YOUR INSTALLATION. This batch file is called by all other batch files.
 
